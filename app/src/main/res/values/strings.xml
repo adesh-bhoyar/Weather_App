@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temperature">"Temperature: "</string>
+    <string name="temperature_format">%s\u00B0C</string>
+    <string name="temperature_format2">%s\u00B0F</string>
+    <string name="rain_intensity_format">%.1f%%</string>
+
+</resources>
